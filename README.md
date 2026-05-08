@@ -20,12 +20,6 @@
 - Docker, g-Cloud
 - MySQL, Oracle, MongoDB
 
----
-
-### 주요 활동 지표
-
-![yunan1101's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunan1101&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunan1101&layout=compact&theme=default)
 
 ---
 
