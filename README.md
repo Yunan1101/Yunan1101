@@ -1,32 +1,35 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=120&text=Yunan&animation=&fontColor=000000&fontSize=50" />
-</div>
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Email </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> yunbin0115@naver.com </div>
-</div>
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
-    <div style="margin: 0 auto; text-align: center;" align="center">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    </div>
-</div>
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <div style="text-align: center;">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunbin0115"/>
-            <img src="https://github-readme-stats.vercel.app/api?username=Yunan1101&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/>
-        </div>
-        <div style="margin-left: 20px; text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunan1101&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/>
-        </div>
-    </div>
-</div>
+# yunan1101
+
+### 백엔드 개발자 (Backend Developer)
+효율적인 시스템 설계와 지속 가능한 인프라 구축을 지향합니다.
+
+---
+
+### 소개
+- **현재 활동**: g-Cloud 기반 그룹웨어 개발자 양성 과정 참여 중 (2026.04 - 2026.10)
+- **학력**: 순천향대학교 컴퓨터공학과 졸업
+- **관심 분야**: 대규모 트래픽 처리, 클라우드 네이티브 아키텍처, 컨테이너 기술
+
+### 보유 기술
+
+**Backend**
+- Java, Spring Boot, JPA
+- Python
+
+**Infrastructure & Database**
+- Docker, g-Cloud
+- MySQL, Oracle, MongoDB
+
+---
+
+### 주요 활동 지표
+
+![yunan1101's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunan1101&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunan1101&layout=compact&theme=default)
+
+---
+
+### 연락처 및 링크
+- **Email**: yunbin0115@gmail.com
+- **Blog**: https://younanee.tistory.com/
+- **Portfolio**: -
